@@ -6,6 +6,7 @@ def between?(number)
   else
     false
   end
+end
     
 def valid_move?
   
