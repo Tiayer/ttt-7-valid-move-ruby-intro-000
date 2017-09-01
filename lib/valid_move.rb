@@ -1,12 +1,7 @@
 # code your #valid_move? method here
 def between?(number)
-  if number.to_i >= 0 ||
-    number.to_i <= 8
-    true
-  else
-    false
+   number.to_i
   end
-end
 
 def valid_move?
 
